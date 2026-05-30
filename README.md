@@ -1,2 +1,1 @@
-# alu-zero_day
-Assignment
+My first readme
